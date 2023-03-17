@@ -1,0 +1,10 @@
+my:
+	greeting: Hello, person!
+
+db:
+	connection: conection-string-here
+	host: 192.168.0.1
+	port: 12345
+	
+default:
+        dado1: valor do dado 1	
